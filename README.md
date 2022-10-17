@@ -3,6 +3,9 @@
 ### Olá, eu sou o Erick Dutra ✌️
 </div>
 <br/>
+
+##
+
 <div align="center">
 
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erickdutra.github.io/Portfolio/)
@@ -10,7 +13,10 @@
 
 ![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons=true&theme=dracula)
 </div>
+
 <div align="center">
+
+##
 
 ### 🗻 Tecnologias 🗻
 </div>
@@ -24,6 +30,8 @@
  
   </div>
 </br>
+
+##
 
 <div align="center">
 
