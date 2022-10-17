@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ErickDutra/ErickDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Erick Dutra ✌️
+</div>
+<br/>
+<div align="center">
 
-Here are some ideas to get you started:
+[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erickdutra.github.io/Portfolio/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-dutra-916217211/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons=true&theme=dracula)
+</div>
+<div align="center">
+
+### 🗻 Tecnologias 🗻
+</div>
+</br>
+<div style="display:  inline_block"  align="center">
+ <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+ <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ 
+  </div>
+</br>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDutra&layout=compact&show_icons=true&theme=dracula)
+</div>
+<div align="center">
+
+![Snake animation](https://github.com/ErickDutra/ErickDutra/blob/output/github-contribution-grid-snake.svg)
+<div>
