@@ -31,13 +31,13 @@
   </div>
 </br>
 
-##
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDutra&layout=compact&show_icons=true&theme=dracula)
 </div>
 <div align="center">
+
+##
 
 ![Snake animation](https://github.com/ErickDutra/ErickDutra/blob/output/github-contribution-grid-snake.svg)
 <div>
