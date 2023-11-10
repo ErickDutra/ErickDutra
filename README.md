@@ -1,6 +1,6 @@
 <div align="center">
 
-### Olá, eu sou o Erick Dutra ✌️
+### Hello!!, I am Erick Dutra ✌️
 </div>
 <br/>
 
