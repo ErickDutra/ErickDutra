@@ -40,6 +40,3 @@
 <div align="center">
 
 ##
-
-![Snake gif](https://github.com/ErickDutra/ErickDutra/blob/output/github-contribution-grid-snake-dark.svg)
-<div>
