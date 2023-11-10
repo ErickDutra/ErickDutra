@@ -41,5 +41,5 @@
 
 ##
 
-![Snake animation](https://github.com/ErickDutra/ErickDutra/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake gif](https://github.com/ErickDutra/ErickDutra/blob/output/github-contribution-grid-snake-dark.svg)
 <div>
