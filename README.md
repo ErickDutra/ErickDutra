@@ -20,7 +20,7 @@
 
 ##
 
-### 🗻 Tecnologias 🗻
+### 🗻 Technologies 🗻
 </div>
 </br>
 <div style="display:  inline_block"  align="center">
