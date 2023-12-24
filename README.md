@@ -31,7 +31,7 @@
   </div>
 </br>
 
-<div align="center" display="flex">
+<div align="center" style="display:  flex">
  
 ![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&layout=compact&show_icons=true&theme=dracula)
  
