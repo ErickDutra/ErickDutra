@@ -13,6 +13,9 @@
 <br/>
 
 <div align="center">
+ 
+![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons=true&theme=dracula)
+ 
 
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erickdutra.github.io/Portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-dutra-916217211/)
@@ -37,11 +40,11 @@
 </br>
 
 </div>
-<div style="display:  flex">
- 
-![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons=true&theme=dracula)
+<div align="center">
+</br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDutra&show_icons=true&theme=dracula)
+
 </div>
 
 ##
