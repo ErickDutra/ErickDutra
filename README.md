@@ -38,7 +38,9 @@
 
 </div>
 <div style="display:  flex">
+ 
 ![Erick Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons=true&theme=dracula)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDutra&show_icons=true&theme=dracula)
 </div>
 
