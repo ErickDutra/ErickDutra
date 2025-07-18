@@ -13,9 +13,9 @@
 
 </div>
 </br>
-<div align="center" text-align="justify">
+<div align="start" >
 <h2>🚀 <b>About Me</b> </h2>
-<p> I am a back-end developer with a strong foundation in Java and expertise in building robust, scalable applications using Spring Boot. I also have experience in mobile and front-end development, allowing me to collaborate effectively across the full stack when needed.</p>
+<p text-align="justify"> I am a back-end developer with a strong foundation in Java and expertise in building robust, scalable applications using Spring Boot. I also have experience in mobile and front-end development, allowing me to collaborate effectively across the full stack when needed.</p>
 <h3>My technical skill set includes:</h3>
  <ul>Java (Spring Boot) – Development of scalable APIs and enterprise-grade applications.</ul>
  <ul>TypeScript – Implementation of business rules and application logic with a focus on clarity and maintainability.</ul>
