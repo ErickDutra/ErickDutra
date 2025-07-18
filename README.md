@@ -13,9 +13,15 @@
 
 </div>
 </br>
-<div align="center">
+<div align="center" text-align="justify">
 <h2>🚀 <b>About Me</b> </h2>
-<p> I’m a back-end developer with a strong interest in mobile development. My primary language is Java, and I specialize in using Spring Boot to build robust and scalable applications. Additionally, I have experience with Python and TypeScript.</p>
+<p> I am a back-end developer with a strong foundation in Java and expertise in building robust, scalable applications using Spring Boot. I also have experience in mobile and front-end development, allowing me to collaborate effectively across the full stack when needed.</p>
+<h3>My technical skill set includes:</h3>
+ <ul>Java (Spring Boot) – Development of scalable APIs and enterprise-grade applications.</ul>
+ <ul>TypeScript – Implementation of business rules and application logic with a focus on clarity and maintainability.</ul>
+ <ul> Flutter – Mobile development for creating cross-platform, performant, and visually appealing apps.</ul>
+ <ul>PostgreSQL – Writing and optimizing high-performance queries for large and complex datasets.</ul>
+ <ul>Jaspersoft – Designing and generating dynamic, data-driven reports tailored to business needs.</ul>
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
