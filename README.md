@@ -34,7 +34,6 @@
 </div>
 <div style="display: inline-block; vertical-align: top;" align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickDutra&show_icons&theme=dracula&includes_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDutra&show_icons=true&theme=dracula)
 
 
